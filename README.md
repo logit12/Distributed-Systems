@@ -13,14 +13,14 @@ To launch the program, please to follow these steps:
 
 
 ==> You should find these files : 
-	-> master.jar
-	-> slave.jar
-	-> MASTER_SHAVADOOP_JAR which is the java project for the master
-	-> SLAVE_SHAVADOOP_JAR which is the java project for the slaves
-	-> filetoread.text which contains all machines names where the slaves could run
-        -> Input.text which is the input file for our program
-	-> batch.sh which is my script to launch our program
-	-> sample_in_shell_script.txt 
+- master.jar
+- slave.jar
+- MASTER_SHAVADOOP_JAR which is the java project for the master
+- SLAVE_SHAVADOOP_JAR which is the java project for the slaves
+- filetoread.text which contains all machines names where the slaves could run
+- Input.text which is the input file for our program
+- batch.sh which is my script to launch our program
+- sample_in_shell_script.txt 
 
 3 - open the shell script and go to the place where you have unzipped the package SHAVADOOP
 
