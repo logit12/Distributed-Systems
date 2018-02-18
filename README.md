@@ -1,11 +1,9 @@
 # Systemes_Repartis
 @Author : Lorraine NYEMBI
 Date : Nov, 24th 2016
-# =================
 This folder contains the whole SHAVADOOP project 
 Eclipse Version: Luna Service Release 2 (4.4.2)
 OS: Linux
-# =================
 
 To launch the program, please to follow these steps:
 
@@ -47,4 +45,3 @@ New files have been created. The most important is the file SHAVADOOP_RESULTS.te
 Notes for batch.file:
 
 You can adapt the batch file and set the value of the different variables
-========================================================================
